@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.xpl": "xml",
+        "*.xspec": "xml",
+        "*.xslt": "xslt",
+        "saxoncglue.h": "c"
+    }
+}
